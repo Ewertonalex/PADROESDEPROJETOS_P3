@@ -18,7 +18,7 @@ Este Repositório é dedicado ao acompanhamento da Disciplina em questão, do te
 
 ### 🧾 Acompanhamento<br><br>
 
-#### Aulas de Revisão em Java 1️⃣:  Aula 02 e 03
+#### 1️⃣ Aulas de Revisão em Java:  Aula 02 e 03
 
 - Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao" target="_blank">auladerevisao</a>.
 
