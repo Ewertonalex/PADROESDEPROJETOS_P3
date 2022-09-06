@@ -34,7 +34,7 @@ public class Conta {
         this.saldo = saldo;
         this.limite = 100000;
         int numeroContaDep = numero + 1;
-        this.contaDependente = new Conta(numeroContaDep)
+
     }
 
 
