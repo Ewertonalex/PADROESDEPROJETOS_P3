@@ -16,7 +16,7 @@ Este Repositório é dedicado ao acompanhamento da Disciplina em questão, do te
 
  </div>
 
-### 🧾 Acompanhament<br><br>
+### 🧾 Acompanhamento<br><br>
 
 #### 1️⃣ Aulas de Revisão em Java:  Aula 02 e 03
 
