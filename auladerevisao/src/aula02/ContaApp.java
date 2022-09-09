@@ -4,12 +4,15 @@ public class ContaApp {
     public static void main(String[] args) {
 
         Conta c = new Conta();
-        Conta conta2 = new Conta(2, "Monitor", 10000, 1000);
+        Conta conta2 = new Conta(2, "", 10000, 1000);
         //Conta conta3 = new Conta(3, "Conta Master", 100000, 10000);
         c.limite = 1000;
         c.nome = "Monitora";
         c.saldo = 10000;
         c.numero = 1;
+        c.nome = "Monitor";
+
+        System.out.println("Nome: " + conta2.nome);
 
         System.out.println("Saldo inicial: " + c.saldo);
 
