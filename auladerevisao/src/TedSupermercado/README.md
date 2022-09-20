@@ -28,7 +28,8 @@ Descrição: <h3>Aplicativo - Java para um Supermercado</h3><br>
 <div align="center">
 
 <h3>Resultado:</h3><br>
-![](../../../../Users/ACER/Downloads/33ad64f3-50ff-444f-b7e2-10ac20dc895e.jpg)
+
+<img src="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/blob/main/auladerevisao/src/TedSupermercado/img/33ad64f3-50ff-444f-b7e2-10ac20dc895e.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
