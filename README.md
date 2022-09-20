@@ -18,10 +18,24 @@ Este Repositório é dedicado ao acompanhamento da Disciplina em questão, do te
 
 ### 🧾 Acompanhamento<br><br>
 
-#### 1️⃣ Aulas de Revisão em Java:  Aula 02 e 03
+#### 1️⃣ Aulas de Revisão em Java:  Aula 02
 
-- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao" target="_blank">auladerevisao</a>.
+- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao/src/Aula02prof" target="_blank">aula02</a>.
 
+#### 2️⃣ Aulas de Revisão em Java:  Aula 03
+
+- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao/src/aula03Emcap" target="_blank">aula03</a>.
+
+#### 3️⃣ Aulas de Revisão em Java:  Aula 04
+
+- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao/src/aula04Interface" target="_blank">aula04</a>.
+
+#### 4️⃣ Ted POO Herança
+
+- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao/src/TedPOOHeranca" target="_blank">Ted - Herança</a>.
+
+#### 5️⃣ Ted Composição - Supermercado
+- Para acessar o que foi feito em aula, entre na pasta  📁 <a href="https://github.com/Ewertonalex/PADROESDEPROJETOS_P3/tree/main/auladerevisao/src/TedSupermercado" target="_blank">Ted Composição - Supermercado</a>.
 
 
 <div align="center">
