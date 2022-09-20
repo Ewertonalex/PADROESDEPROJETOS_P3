@@ -34,7 +34,7 @@ public class Controle {
 
         System.out.println("=============================");
         System.out.println("Olá, "+nome+", segue os dados digitados e\nlogo abaixo se você ganhou ou não desconto:");
-        System.out.println("Hora: "+hora+":"+minuto+":"+segundo+"horas");
+        System.out.println("Hora: "+hora+":"+minuto+":"+segundo+" h");
         System.out.println("Dia: " +dia);
         System.out.println("Preço atual do Produto: " +preco);
 
